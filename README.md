@@ -48,7 +48,7 @@ GET http://localhost:3000/raids/id/0104
 ```
 
 ## Retrieve Raid by Short Name
-Displays raid information by using the its short name.
+Displays raid information by using the short name.
 ```
 GET http://localhost:3000/raids/{shortName}
 ```
